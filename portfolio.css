@@ -1,0 +1,25 @@
+
+img{
+	width: 300px;
+	height: 200px;
+}
+
+#container{
+		float: left;
+		border: 1px solid #404749;;
+		width: 100%;
+}
+
+.codeSchool{
+	display: block;
+	margin: auto;
+}
+
+.portfolio{
+	display: block;
+	margin: auto;
+}
+
+.nav{
+	padding-bottom: 10px;
+}
